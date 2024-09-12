@@ -14,6 +14,7 @@ public class Class1 extends Class2 implements Interface1,Interface2{
     }
     public void getX(){
         System.out.println(x);
+        System.out.println();
     }
 
     @Override
